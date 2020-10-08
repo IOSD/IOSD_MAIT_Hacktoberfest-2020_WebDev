@@ -9,6 +9,10 @@
 
 # Hacktoberfest-2020
 
+- A repository based on flutter framework made for the flutter developers to contribute in this project as a part of Hactoberfest 2020.
+- In this repository, each contributor will be adding their peice of information(info section) and get hands on experience with creating PRs and learn about branching, merging, etc.
+
+
 # Go through the  `CONTRIBUTING.md`  file  to get to know about how and what may you contribute in this project.
 
 ## Steps for your contribution:
