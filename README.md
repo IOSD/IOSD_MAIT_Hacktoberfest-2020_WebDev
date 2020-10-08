@@ -74,6 +74,10 @@ Now submit the pull request
 
 Congrats! You have made your first contribution! Happy Coding!
 
+### Folder structure
+
+Put css files on `css` folder, images on `images` folder and html files on `pages` folder.
+
 ---
 
 #### Show you love and star this repo.
