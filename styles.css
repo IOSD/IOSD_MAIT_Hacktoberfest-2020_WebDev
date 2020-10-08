@@ -6,3 +6,29 @@ body{
     margin-right: 0;
 
 }
+ul{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-right: 100px;
+    z-index: 2;
+
+}
+
+ul li{
+    font-family: sans-serif;
+    list-style: none;
+    display: inline;
+    text-align: center;
+    padding: 10px;
+}
+ul li a{
+    padding: 20px;
+    color:black; 
+    text-decoration: none;
+    
+}
+ul li a:hover{
+    color:red;
+    
+}
