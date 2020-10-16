@@ -12,5 +12,5 @@ github => github.com/anshtiwari314
 7. the final website can be seen through the link  https://jolly-dijkstra-1ee6c8.netlify.app/
 
 
-# if u like my contribution then merge it with your master branch
+# if u like my contribution then merge it with your master  branch
   
